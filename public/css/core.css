@@ -1,0 +1,9 @@
+body {
+  font: 13px Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  padding-top: 2em;
+  text-align: center;
+}
